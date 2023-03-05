@@ -3,9 +3,6 @@ Python basic scripts examples.
 
 Examples Questions:
 
-- [Website Name](https://www.website.com){:target="_blank"}: Description of website.
-
-
 - (01). Hello World [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/01.py)
 02. Join two strings
 03. Format floating point in the string
