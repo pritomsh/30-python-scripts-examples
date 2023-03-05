@@ -4,7 +4,7 @@ Python basic scripts examples.
 Examples Questions:
 
 - 01. Hello World [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/01.py) use print function and show how to ignore special characters in python
-- 02. Join two strings [code] (https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/02.py)  Using ‘+’ operator and  format() to add 2 string 
+- 02. Join two strings [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/02.py)  Using ‘+’ operator and  format() to add 2 string 
 - 03. Format floating point in the string
 - 04. Raise a number to a power
 - 05. Working with Boolean types
