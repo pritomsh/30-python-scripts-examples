@@ -1,9 +1,11 @@
-# Initialize counter
-i = input('How much number you want to sum')
-sum = 0
-# Iterate the loop 5 times
-while counter < 6:
-    # Print the counter value
-    print("The current counter value: %d" % counter)
-    # Increment the counter
-    counter = counter + 1
+#enter age if you are 18 years or more than you can vote 
+
+age = int(input("Enter age"))
+
+# the test condition is always True
+while age > 18:
+    print('You can vote')
+
+else:
+    print("You can't vote")
+
