@@ -12,7 +12,7 @@ Examples Questions:
 - 07. Using AND and OR operators
 - 08. Switch case statement
 - 09. While Loop
-- 10. For Loop
+- 10. For Loop [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/10.py)
 - 11. Run one Python script from another
 - 12. Use of a command-line argument
 - 13. Use of regex
