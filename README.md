@@ -19,7 +19,8 @@ Examples Questions:
 - 14. Use of getpass
 - 15. Use of date format
 - 16. Add and remove the item from a list
-- 17. List comprehension
+- 17. List comprehension 
+  - **Basic syntax : new_list = [expression for item in iterable if condition]** [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/17.py)
 - 18. Slice data
 - 19. Add and search data in the dictionary
 - 20. Add and search data in the set
