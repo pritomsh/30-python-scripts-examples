@@ -25,7 +25,7 @@ Examples Questions:
 - 19. Add and search data in the dictionary
 - 20. Add and search data in the set
 - 21. Count items in the list
-- 22. Define and call a function
+- 22. Define and call a function [code](https://github.com/pritomsh/30-python-scripts-examples/blob/master/code/22.py)
 - 23. Use of throw and catch exception
 - 24. Read and Write File
 - 25. List files in a directory
