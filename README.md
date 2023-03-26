@@ -32,7 +32,7 @@ Examples Questions:
 - 26. Read and write using pickle
 - 27. Define class and method
 - 28. Use of range function
-- 29. Use of map function
+- 29. Use of map function add
 - 30. Use of filter function
 
 
